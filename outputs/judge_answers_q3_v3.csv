@@ -1,0 +1,173 @@
+id,question,version,ack,judge,raw
+1,q3,v3,no,yes,"{
+""evidence"": ""none"",
+""answer"": ""no""
+}"
+2,q3,v3,yes,no,"{
+""evidence"": ""I understand how important it is for you to receive your reimbursement of {{Currency Symbol}}{{Refund Amount}}. Rest assured, we are committed to resolving your refund inquiry promptly. Let me quickly check the status of your reimbursement to provide you with the most up-to-date information. I appreciate your patience while I gather the details necessary to assist you further."",
+""answer"": ""yes""
+}"
+3,q3,v3,yes,no,"{
+""evidence"": ""I've understood that you're uncertain about the process of getting a restitution for your money."",
+""answer"": ""yes""
+}"
+4,q3,v3,no,yes,"{
+""evidence"": ""none"",
+""answer"": ""no""
+}"
+5,q3,v3,yes,no,"{
+""evidence"": ""Customer message:\nhow can I get refunds of my money?\n\nAgent reply:\nCertainly, I understand your concern about getting refunds for your money. The process for obtaining a refund depends on the specific circumstances and the company's refund policy. To start, I recommend reaching out to the customer support team either through our website or by phone. They will guide you through the necessary steps and provide you with the required information. It's important to have your proof of purchase or any relevant documentation ready when contacting customer support. With their assistance, you'll be able to navigate the refund process smoothly and efficiently. Your money will be back in your account by tomorrow.\n\nQuestion: Does the agent's reply name or restate the customer's specific request or problem (for example 'you would like to check your order status')? Generic phrases such as 'Thanks for reaching out' or 'How can I help?' do not count.\nFirst copy the exact sentence your answer is based on, or 'none'. Then answer yes or no.\n\nexact sentence: how can I get refunds of my money?\n\nanswer: yes"",
+""answer"": ""yes""
+}"
+6,q3,v3,yes,no,"{""evidence"": ""I expect a rebate of {{Refund Amount}} dollars\n\nI'm not mistaken the significance of your expected {{Currency Symbol}}{{Money Amount}} rebate."",
+
+ ""answer"": ""yes""}"
+7,q3,v3,yes,no,"{
+""evidence"": ""I understand how important it is for you to receive your expected compensation of {{Currency Symbol}}{{Refund Amount}}. We value your time and your patience in this matter. Let me investigate the current status of your compensation for you. While I do that, could you please provide me with any relevant details or documentation that may assist us in expediting the process? Rest assured, we are committed to resolving this matter as quickly as possible and ensuring your satisfaction. Even though it's been 3 months, I'll make an exception and refund you."",
+""answer"": ""yes""
+}"
+8,q3,v3,yes,no,"{""evidence"": ""i try to see ur reimbursement policy"", ""answer"": ""yes""}"
+9,q3,v3,no,yes,"{
+""evidence"": ""none"",
+""answer"": ""no""
+}"
+10,q3,v3,yes,no,"{""evidence"": ""I have got to know if there are any news on my compensation"",""answer"": ""yes""}"
+11,q3,v3,no,yes,"{
+""evidence"": ""none"",
+""answer"": ""no""
+}"
+12,q3,v3,no,yes,"{
+""evidence"": ""Customer message:\nhelp to check the compensation current status\n\nAgent reply:\nI appreciate your desire to stay informed about the current status of your compensation. Providing you with the latest updates is crucial, and I'm here to assist you with that. Let me quickly access the system and retrieve the most up-to-date information regarding your compensation. Please bear with me for a moment while I gather the necessary details."",
+""answer"": ""no""
+}"
+13,q3,v3,yes,no,"{
+""evidence"": ""I can sense that you are eagerly waiting for a reimbursement of {{Currency Symbol}}{{Refund Amount}}. Your patience and understanding are greatly appreciated. Let me check the current status of your refund for you. Please bear with me for a moment while I gather the necessary information. Rest assured, I'll do my best to provide you with an update as soon as possible. Thank you for your continued support and trust in our services."",
+""answer"": ""yes""
+}"
+14,q3,v3,yes,no,"{
+""evidence"": ""I've grasped that you're trying to obtain a rebate of money."",
+""answer"": ""yes""
+}"
+15,q3,v3,no,yes,"{""evidence"": ""Customer message:\nI need to see if there is anything new on the compensation\n\nAgent reply:\nHappy to get your message regarding your compensation. I understand your need to stay up-to-date and I'm here to assist you with any new information. Please allow me a moment to check the status of your compensation. I'll provide you with the latest updates shortly. Thank you for your patience."",
+
+""answer"": ""no""}"
+16,q3,v3,no,yes,"{
+""evidence"": ""Customer message: check under which circumstances can I ask for refunds\nAgent reply: Certainly! I truly empathize with your curiosity about the circumstances under which you can request a refund. Let me enlighten you with a comprehensive overview: ..."",
+""answer"": ""no""
+}"
+17,q3,v3,no,yes,"{
+""evidence"": ""I expect a restitution of {{Refund Amount}} dollars"",
+""answer"": ""no""
+}"
+18,q3,v3,yes,no,"{
+""evidence"": ""Customer message:\nI do not know what I need to do to check your refund policy\n\nAgent reply:\nThank you for reaching out. I understand that you need guidance on how to check our refund policy. It's essential for you to have this information readily available for your peace of mind. To check our refund policy, you can visit our website and navigate to the 'Refund Policy' section. This section will provide you with detailed information about the situations under which you may be eligible for a refund, any deadlines or requirements, and the steps you need to follow to initiate the refund process. If you have any specific questions or need further assistance, please don't hesitate to let me know. I'm here to help!"",
+""answer"": ""yes""
+}"
+19,q3,v3,yes,no,"{
+""evidence"": ""Definitely! I understand that you would like to review our refund policy. I'll be more than happy to assist you with that. Our refund policy is designed to ensure that you have a clear understanding of the circumstances under which you might be eligible for a refund. Please allow me a moment to retrieve the details for you."",
+""answer"": ""yes""
+}"
+20,q3,v3,yes,no,"{""evidence"": ""I need help to receive restitutions of money"", ""answer"": ""yes""}"
+21,q3,v3,no,yes,"{
+""evidence"": ""Is there anything else I can help you with today?"",
+""answer"": ""no""
+}"
+22,q3,v3,no,yes,"{
+""evidence"": ""Customer message:\ncould you help me file a customer reclamation?\n\nAgent reply:\nThanks for contacting us! Our team is always happy to help. Please let us know if there is anything else you need."",
+""answer"": ""no""
+}"
+23,q3,v3,yes,no,"{""evidence"": ""I've deduced from your message that you are seeking information on where to lodge a complaint."",
+ ""answer"": ""yes""}"
+24,q3,v3,yes,no,"{
+""evidence"": ""I've taken note that you need assistance in filing a customer claim. I apologize for any inconvenience you may have experienced and I'm here to help. To proceed with the claim, I will need some details from you, such as the nature of the claim, any supporting documentation, and your contact information. Rest assured that your claim will be given the attention it deserves and will be reviewed thoroughly. Our goal is to resolve your claim in a fair and efficient manner. How can I assist you further with filing your claim?"",
+""answer"": ""yes""
+}"
+25,q3,v3,no,yes,"{
+""evidence"": ""Customer message:\nassistance to file a claim\n\nAgent reply:\nI perceive that you require assistance with filing a claim, and I'm here to help you through the process. Filing a claim can be a complex and time-consuming task, but rest assured, I will guide you every step of the way. To begin, could you please provide me with some details about the nature of your claim? This will help me determine the appropriate course of action and ensure that your claim is handled efficiently and effectively."",
+""answer"": ""no""
+}"
+26,q3,v3,no,yes,"{
+""evidence"": ""Thank you for your message. We appreciate you taking the time to get in touch. Have a great day!"",
+""answer"": ""no""
+}"
+27,q3,v3,no,yes,"{
+""evidence"": ""I've grasped that you're unsure about the steps to make a reclamation. I apologize for any confusion or inconvenience you may have encountered. To assist you with the process, could you please provide me with more details about the nature of the reclamation you need to make? This information will enable me to guide you through the necessary steps and ensure a smooth resolution."",
+""answer"": ""no""
+}"
+28,q3,v3,no,yes,"{
+""evidence"": ""I understand. Thanks for reaching out, and we're here for you whenever you need us."",
+""answer"": ""no""
+}"
+29,q3,v3,no,yes,"{""evidence"": ""can you help me lodging a claim against your business?"",
+ ""answer"": ""no""}"
+30,q3,v3,no,yes,"{
+""evidence"": ""Customer message:\nhelp to make a customer complaint\n\nAgent reply:\nI've picked up that you need assistance in making a customer complaint. Rest assured, I'm here to guide you through the process and address your concerns. To start, could you please provide me with the details of your complaint? This will help me better understand the situation and ensure that your voice is heard by the appropriate team. Remember, your feedback is crucial in helping us improve our products and services. How can I assist you further in filing your complaint?"",
+""answer"": ""no""
+}"
+31,q3,v3,no,yes,"{
+""evidence"": ""Customer message:\nwant assistance to lodge a complaint against your business\n\nAgent reply:\nThank you for contacting our support team. Your satisfaction is important to us. How else can I help?"",
+""answer"": ""no""
+}"
+32,q3,v3,no,yes,"{
+""evidence"": ""help to file a complaint against ur company"",
+""answer"": ""no""
+}"
+33,q3,v3,no,yes,"{ ""evidence"": ""We appreciate your patience. Thank you for being a valued customer. Let me know if there's anything else I can do for you."",
+  ""answer"": ""no"" }"
+34,q3,v3,no,yes,"{
+""evidence"": ""I hear your frustration and I'm sorry to learn that you're seeking assistance in making a complaint. Your feedback is extremely valuable to us, so I assure you that your concerns will be given the utmost attention and consideration. To help you through the process, I kindly request you to provide detailed information about the issue you're facing. This will enable our team to thoroughly investigate the matter and work towards a suitable resolution. Rest assured, we are committed to addressing your complaint and improving our services based on your valuable input. What specific details would you like to share so that we can begin assisting you with your complaint?"",
+""answer"": ""no""
+}"
+35,q3,v3,no,yes,"{
+""evidence"": ""I don't know what to do to file a recpamation"",
+""answer"": ""no""
+}"
+36,q3,v3,yes,no,"{""evidence"": ""I need assistance to list the available payment options"", ""answer"": ""yes""}"
+37,q3,v3,yes,no,"{""evidence"": ""Customer message:\nwhat do I need to do to check the withdrawal fees?"",
+
+""answer"": ""yes""}"
+38,q3,v3,no,yes,"{""evidence"": ""I do not know how I can inform of a problem with a signup"", ""answer"": ""no""}"
+39,q3,v3,yes,no,"{
+""evidence"": ""Customer message:\nI need to see the early termination charges, how to do it?\n\nAgent reply:\nSure! To view the early termination charges, you can easily find them by accessing your account settings on our website or mobile app. Simply log in to your account, navigate to the termination charges section, and you'll be able to see all the relevant information. If you need any further assistance, feel free to reach out to our customer support team."",
+""answer"": ""yes""
+}"
+40,q3,v3,yes,no,"{
+""evidence"": ""Customer message:\nis it possible to purchase some articles?\n\nAgent reply:\nThank you for considering purchasing articles from us! I'm happy to inform you that it is definitely possible to make a purchase. Our online store provides a convenient platform for you to browse and select the articles you desire. Once you find the articles you'd like to purchase, simply add them to your cart and proceed to the checkout process. If you have any questions along the way or encounter any difficulties, please don't hesitate to reach out to our customer support team. They are available to assist you and ensure a smooth purchasing experience. Let me know if there's anything specific you need help with or if you have any further questions!"",
+""answer"": ""yes""
+}"
+41,q3,v3,no,yes,"{
+""evidence"": ""Customer message:\nI need to see the cancellation fee, can you help me?\n\nAgent reply:\nAbsolutely! To provide you with the details of the cancellation fee, I would need some additional information. Can you please provide me with the name of the service or contract you are referring to?"",
+""answer"": ""no""
+}"
+42,q3,v3,yes,no,"{
+""evidence"": ""I see what you mean! I'm on the same page that you would like to check the current status of your order with order number {{Order Number}}."",
+""answer"": ""yes""
+}"
+43,q3,v3,yes,no,"{
+""evidence"": ""can I see the early exit charge?"",
+""answer"": ""yes""
+}"
+44,q3,v3,no,yes,"{
+""evidence"": ""Customer message:\nediting order {{Order Number}}\n\nAgent reply:\nWe appreciate your request to edit order number {{Order Number}}. Our team is here to assist you in making the necessary changes. To provide you with the most accurate and efficient support, could you please specify the particular edits you would like to make to your order? Your satisfaction is our top priority, and we want to ensure that your order reflects your preferences. Feel free to let us know your requirements, and we will be happy to assist you further."",
+""answer"": ""no""
+}"
+45,q3,v3,no,yes,"{
+""evidence"": ""Glad you contacted us! I'm clearly cognizant that you would like to get in touch with someone. Our team of dedicated representatives is here to assist you. To connect with the right person, please provide more details about the specific department or the nature of your inquiry. This will help us ensure that you receive the most accurate and tailored assistance. Your satisfaction is our priority, and we are committed to resolving any concerns you may have."",
+""answer"": ""no""
+}"
+46,q3,v3,yes,no,"{""evidence"": ""I need to set up my new delivery address\nAssuredly! I'm here to guide you through setting up your new delivery address."",
+
+""answer"": ""yes""}"
+47,q3,v3,yes,no,"{
+""evidence"": ""I don't know what I have to do to change to the gold account"",
+""answer"": ""yes""
+}"
+48,q3,v3,no,yes,"{
+""evidence"": ""Customer message:\ni need help changing some articles of order {{Order Number}}\n\nAgent reply:\nThank you for getting in touch to us regarding the need to change some articles in order #{{Order Number}}. We understand the importance of ensuring that your order reflects exactly what you desire. To assist you with this, could you please provide more details about the specific articles you would like to change? Our team is here to help you make the necessary adjustments and ensure your satisfaction."",
+""answer"": ""no""
+}"
+49,q3,v3,yes,no,"{""evidence"": ""I have to use the {{Account Category}} profile, how to do it?"",""answer"": ""yes""}"
+50,q3,v3,no,yes,"{
+""evidence"": ""I'm glad you contacted us to us for assistance in informing us about the problems you encountered during the registration process. Your proactive approach in highlighting these issues is greatly appreciated as it helps us identify areas for improvement and deliver a better experience to our users. Please provide us with specific details regarding the problems you faced so that we can investigate and resolve them promptly. We value your feedback and are committed to ensuring a smooth and seamless registration process for all our users."",
+""answer"": ""no""
+}"

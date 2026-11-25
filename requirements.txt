@@ -1,0 +1,8 @@
+# Tested with Python 3.13
+pandas==3.0.3
+numpy==2.5.0
+scikit-learn==1.9.0
+openpyxl==3.1.5
+ollama==0.6.3
+# only needed for prepare_data.py (downloads the Bitext dataset)
+datasets==5.2.0
