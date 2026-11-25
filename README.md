@@ -17,7 +17,7 @@ quality questions, and measured how often it agrees with me, where it fails, and
 1. **Splitting a compound question fixed Q1.** Asked in one go ("needs a lookup *and* doesn't ask for an
    identifier?"), the judge caught only 3/26 (v1) and 2/26 (v2) problems. When code decides whether a lookup
    is needed and the LLM only answers "does the reply ask for an identifier?", it caught 26/26 with 2 false alarms.
-   The LLM's own sub-task agreed with my labels on 28 of the 29 items I labelled yes or no.
+   The LLM's own sub-task agreed with my labels on 28 of the 29 items I labelled yes or no. v3 beat v2 in 100% of paired bootstrap resamples.
 2. **Rules and examples removed Q2's false alarms.** With a bare question, the judge flagged 4 correct
    policy explanations as violations because they didn't mention every policy detail (precision 0.44).
    With explicit rules and two examples, precision rose to 1.00 (MCC +0.38, 95% CI [0.13, 0.65]; better in 99% of resamples).
